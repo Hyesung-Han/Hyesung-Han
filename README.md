@@ -4,8 +4,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyesung-Han&count_bg=%23FFF933&title_bg=%23FF9494&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![Hyesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyesung-Han&theme=swift&show_icons=true)    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanhs4544)](https://solved.ac/hanhs4544)
+![Hyesung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyesung-Han&theme=swift&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanhs4544)](https://solved.ac/hanhs4544)
 
 # 💪Skills
 
